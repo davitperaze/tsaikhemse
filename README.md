@@ -8,3 +8,4 @@
 - [Shota Jangulashvili](https://github.com/sjangulashvili/tsaikhemse/)
 - [Saba Kavtaradze](https://github.com/kavtara1/tsaikhemse)
 - [Zura Beridze](https://github.com/beridzezura14/waikhemse)
+- და სხვანი
