@@ -4,5 +4,6 @@
 
 - [Tornike Zatuashvili](https://github.com/tokazato/tsaikhemse)
 - [Giorgi Joglidze](https://github.com/headj4d/tsaikhemse)
-- [tam kopadze](https://github.com/tamkopadze/tsaikhemse)
-- [shota jangulashvili](https://github.com/sjangulashvili/tsaikhemse/)
+- [Tam Kopadze](https://github.com/tamkopadze/tsaikhemse)
+- [Shota Jangulashvili](https://github.com/sjangulashvili/tsaikhemse/)
+- [Saba Kavtaradze](https://github.com/kavtara1/tsaikhemse)
