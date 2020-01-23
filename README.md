@@ -1,5 +1,14 @@
 # tsaikhemse
+## List of 6th goup students
 
+- [Davit Gurabanidze](https://github.com/davitgurabanidze/tsaikhemse)
+- [Rusudan Nadirashvili](https://github.com/RusudaniNadirashvili/Tsaikhemse)
+- [Rezo Gvelesiani](https://github.com/newcastle10/waixemse)
+- [Beka Bakashvili](#!)
+- [Irakli Shelia](https://github.com/ika-sheloo/waixemse)
+- [Tiko Shubitidze](https://github.com/tikoshubitidze/waixemse-2)
+- []()
+- []()
 ## List of 3rd goup students
 
 - [Tornike Zatuashvili](https://github.com/tokazato/tsaikhemse)
