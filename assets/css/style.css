@@ -21,8 +21,7 @@ body {
     max-width: 1084px;
     margin: 0 auto;
     /*position: relative;*/
-
-
+    overscroll-behavior: contain;
 }
 
 header,
